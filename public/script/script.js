@@ -16,7 +16,7 @@ next.on("click", function(){
 
 
 var tanya = {
-  src: "../public/images/image-tanya.jpg",
+  src: "images/image-tanya.jpg",
   id: 1,
   name: "Tanya Sinclair",
   position: "UX Engineer",
@@ -26,7 +26,7 @@ var tanya = {
 };
 
 var john = {
-  src: "../public/images/image-john.jpg",
+  src: "images/image-john.jpg",
   id: 2,
   name: "John Tarkpor",
   position: "Junior Front-end Developerr",
